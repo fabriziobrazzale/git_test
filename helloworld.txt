@@ -1,1 +1,3 @@
 This is how I wanted to test just how things are going with the commit lines.
+This would be the second time I would be following up on how things are going with the latest commit lines 
+and follow through deal commits.
